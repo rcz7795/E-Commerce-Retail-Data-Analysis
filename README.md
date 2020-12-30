@@ -38,7 +38,7 @@ The Segmentation result is as follows:
 
 ![test](Snips/1.JPG)
 
-## Conclusion :
+## Conclusions :
 
 We approached customer segmentation problem from a behavioural aspect with the number of products ordered, average return rate and total spending for each customer. Use of 3 features helped us with the understandability and visualization of the model.
 
